@@ -5,6 +5,6 @@
 int main(){
 
 
-std::cout << "Hello World!" <<ednl;
+std::cout << "Heo World!" <<ednl;
 
 }
